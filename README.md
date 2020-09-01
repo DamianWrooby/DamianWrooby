@@ -30,7 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damianwrooby&show_icons=true" alt="damianwrooby" /></p>
 
 <h3>Latest tweet</h3> 
-<img src="https://github.com/Raymo111/Raymo111/raw/master/tweet.png" width="70%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
+<img src="https://github.com/DamianWrooby/DamianWrooby/raw/master/tweet.png" width="70%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
 <p align="center">
 <a href="https://twitter.com/damianwrooby" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="damianwrooby" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/damian-wroblewski89" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="damian-wroblewski89" height="30" width="30" /></a>
