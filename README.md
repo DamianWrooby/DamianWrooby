@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Damian</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">A passionate frontend developer from Poland 🇵🇱</h3>
 
 - 🔭 I’m currently working on [my portfolio website](https://github.com/DamianWrooby/portfolio)
 
 - 🌱 I’m currently learning **animations and unit testing in React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DamianWrooby/](https://github.com/DamianWrooby/)
+
+- 💼 I am open to job proposals
 
 - 💬 Ask me about **React**
 
