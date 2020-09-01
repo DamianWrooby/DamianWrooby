@@ -29,10 +29,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=damianwrooby&show_icons=true" alt="damianwrooby" /></p>
 
-<h3>Latest tweet</h3>
-<div align="middle">
- 
-<img src="https://github.com/zhiiiyang/zhiiiyang/blob/master/tweet.png" width="600">
+<h3>Latest tweet</h3> 
+<img src="https://github.com/damianwrooby/damianwrooby/blob/master/tweet.png" width="600">
 
 <p align="center">
 <a href="https://twitter.com/damianwrooby" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="damianwrooby" height="30" width="30" /></a>
