@@ -26,7 +26,6 @@
 <h3>Stats</h3>
 <div align="left">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damianwrooby&layout=compact&hide=html" alt="damianwrooby" /></p>
-<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=damianwrooby&show_icons=true" alt="damianwrooby" /></p>
 </div>
 
