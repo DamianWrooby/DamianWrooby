@@ -25,16 +25,16 @@
 <br><br>
 <h3>Stats</h3>
 <div align="left">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damianwrooby&layout=compact&hide=html" alt="damianwrooby" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=damianwrooby&show_icons=true" alt="damianwrooby" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damianwrooby&layout=compact&hide=html" alt="damianwrooby" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=damianwrooby&show_icons=true" alt="damianwrooby" />
 </div>
 
 <h3>Latest tweet</h3> 
 <a href="https://twitter.com/Raym0111" target="_blank">
   <img src="https://github.com/DamianWrooby/DamianWrooby/raw/master/tweet.png" width="70%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
 </a>
-<p align="center">
+<div align="middle">
 <a href="https://twitter.com/damianwrooby" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="damianwrooby" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/damian-wroblewski89" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="damian-wroblewski89" height="30" width="30" /></a>
 <a href="https://instagram.com/wrobel_wrb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="wrobel_wrb" height="30" width="30" /></a>
-</p>
+</div>
