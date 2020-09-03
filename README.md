@@ -27,8 +27,8 @@
 <br><br>
 
 ### Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damianwrooby&layout=compact&hide=html" alt="damianwrooby" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=damianwrooby&show_icons=true" alt="damianwrooby" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damianwrooby&layout=compact&hide=html" alt="damianwrooby" />
+<img src="https://github-readme-stats.vercel.app/api?username=damianwrooby&show_icons=true" alt="damianwrooby" />
 
 <br><br>
 ### Latest tweet
