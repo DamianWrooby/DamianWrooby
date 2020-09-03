@@ -29,8 +29,8 @@
 ### Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damianwrooby&layout=compact&hide=html" alt="damianwrooby" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=damianwrooby&show_icons=true" alt="damianwrooby" />
-<br/>
 
+<br><br>
 ### Latest tweet
 <a href="https://twitter.com/Raym0111" target="_blank">
   <img src="https://github.com/DamianWrooby/DamianWrooby/raw/master/tweet.png" width="70%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
