@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Damian</h1>
-<h2 align="center">A passionate frontend developer from Poland 🇵🇱</h2>
+<img src="https://github.com/DamianWrooby/DamianWrooby/blob/master/github-banner.jpg" alt="banner that says Hi, I am Damian. I am front-end web developer">
 
-- 🔭 I’m currently working on [my portfolio website](https://github.com/DamianWrooby/portfolio)
+- 🔭 I’m currently working on my personal website
 
-- 🌱 I’m currently learning **animations and unit testing in React**
+- 🌱 I’m currently learning **animations and React components testing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DamianWrooby/](https://github.com/DamianWrooby/)
 
