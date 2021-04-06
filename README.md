@@ -16,7 +16,7 @@
 
 - 🍵 I drink yerba mate on a daily basis, but I also like coffee ☕ 
 
-- ⚡ Fun Fact: I was science showman before I became web developer - [proof](https://www.youtube.com/watch?v=W6wUhrE0l54)
+- ⚡ Fun Fact: I was science showman before I get into web dev world - [proof](https://www.youtube.com/watch?v=W6wUhrE0l54)
 
 
 <br><br>
