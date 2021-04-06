@@ -1,8 +1,8 @@
 <img src="https://github.com/DamianWrooby/DamianWrooby/blob/master/github-banner.jpg" alt="banner that says Hi, I am Damian. I am front-end web developer">
 
-- 🔭 I’m currently working on fullstack Next.js project dedicated to anglers
+- 🔭 I’m currently working on Next.js project dedicated to anglers
 
-- 🌱 I’m currently learning **animations and React components testing**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DamianWrooby/](https://github.com/DamianWrooby/)
 
