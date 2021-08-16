@@ -1,20 +1,14 @@
 <img src="https://github.com/DamianWrooby/DamianWrooby/blob/master/github-banner.jpg" alt="banner that says Hi, I am Damian. I am front-end web developer">
 
-- 🔭 I’m currently working on Next.js project dedicated to anglers
+- 🌱 I am currently participating in a **front-end bootcamp**
 
-- 🌱 I’m currently learning **TypeScript**
-
-- 👨‍💻 All of my projects are available at [https://github.com/DamianWrooby/](https://github.com/DamianWrooby/)
-
-- 💼 I am open to job proposals
+- 👨‍💻 All of my personal projects are available at [https://github.com/DamianWrooby/](https://github.com/DamianWrooby/)
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **dwroblewski89@gmail.com**
+- 📫 How to reach me?  👉🏼 **dwroblewski89@gmail.com**
 
 - 💪 I love football and spending free time on physical activities
-
-- 🍵 I drink yerba mate on a daily basis, but I also like coffee ☕ 
 
 - ⚡ Fun Fact: I was science showman before I get into web dev world - [proof](https://www.youtube.com/watch?v=W6wUhrE0l54)
 
