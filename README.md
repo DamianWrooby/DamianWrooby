@@ -1,7 +1,5 @@
 <img src="https://github.com/DamianWrooby/DamianWrooby/blob/master/github-banner.jpg" alt="banner that says Hi, I am Damian. I am front-end web developer">
 
-- 🌱 I am currently participating in a **front-end bootcamp**
-
 - 👨‍💻 All of my personal projects are available at [https://github.com/DamianWrooby/](https://github.com/DamianWrooby/)
 
 - 💬 Ask me about **React**
