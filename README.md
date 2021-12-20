@@ -23,7 +23,7 @@
 
 <br><br>
 ### Latest tweet
-<a href="https://twitter.com/Raym0111" target="_blank">
+<a href="https://twitter.com/DamianWrooby" target="_blank">
   <img src="https://github.com/DamianWrooby/DamianWrooby/raw/master/tweet.png" width="70%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
 </a>
 
