@@ -14,7 +14,7 @@
 <br><br>
 ### Technologies and tools
 
-<p align="left"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react.js" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/> <img src="https://seeklogo.com/images/N/nextjs-logo-963D40B71E-seeklogo.com.png" alt="next.js" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="40" height="40"/></p>
+<p align="left"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react.js" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/> <img src="https://seeklogo.com/images/N/nextjs-logo-963D40B71E-seeklogo.com.png" alt="next.js" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="40" height="40"/></p>
 <br><br>
 
 ### Stats
