@@ -2,7 +2,7 @@
 
 - 👨‍💻 All of my personal projects are available at [https://github.com/DamianWrooby/](https://github.com/DamianWrooby/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about frontend stuff
 
 - 📫 How to reach me?  👉🏼 **dwroblewski89@gmail.com**
 
@@ -14,7 +14,7 @@
 <br><br>
 ### Technologies and tools
 
-<p align="left"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react.js" width="40" height="40"/> <img src="https://seeklogo.com/images/N/nextjs-logo-963D40B71E-seeklogo.com.png" alt="next.js" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> <img src="https://i.ibb.co/Yj6p14L/jest.png" alt="jest" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></p>
+<p align="left"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react.js" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/> <img src="https://seeklogo.com/images/N/nextjs-logo-963D40B71E-seeklogo.com.png" alt="next.js" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-original.svg" alt="Nuxt.js" width="40" height="40"/></p>
 <br><br>
 
 ### Stats
