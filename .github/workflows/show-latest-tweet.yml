@@ -17,8 +17,8 @@ jobs:
           GITHUB_PAT: ${{ secrets.GIT_TOKEN }}
         run: |-
           Rscript -e "install.packages('remotes')"
-          Rscript -e "remotes::install_github('gadenbuie/tweetrmd', ref='main')"
-          Rscript -e "remotes::install_github('rstudio/webshot2', ref='main')"
+          Rscript -e "remotes::install_github('gadenbuie/tweetrmd')"
+          Rscript -e "remotes::install_github('rstudio/webshot2')"
           Rscript -e "install.packages('rtweet')"
       - name: Run script
         env:
