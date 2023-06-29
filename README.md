@@ -1,14 +1,8 @@
 <img src="https://github.com/DamianWrooby/DamianWrooby/blob/master/github-banner.jpg" alt="banner that says Hi, I am Damian. I am front-end web developer">
 
-- 👨‍💻 All of my personal projects are available at [https://github.com/DamianWrooby/](https://github.com/DamianWrooby/)
-
-- 💬 Ask me about frontend stuff
+- 👨‍💻 I'm currently working as full-time **Frontend Developer** in the enterprise project using **Angular**
 
 - 📫 How to reach me?  👉🏼 **dwroblewski89@gmail.com**
-
-- 💪 I love football and spending free time on physical activities
-
-- ⚡ Fun Fact: I was science showman before I get into web dev world - [proof](https://www.youtube.com/watch?v=W6wUhrE0l54)
 
 
 <br><br>
@@ -26,6 +20,5 @@
 <div align="center">
 <a href="https://twitter.com/damianwrooby" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="damianwrooby" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/damian-wroblewski89" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="damian-wroblewski89" height="30" width="30" /></a>
-<a href="https://instagram.com/wrobel_wrb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="wrobel_wrb" height="30" width="30" /></a>
 </div>
 </div>
