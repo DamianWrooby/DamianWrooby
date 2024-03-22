@@ -18,7 +18,7 @@
 <br><br>
 
 <div align="center">
-<a href="https://twitter.com/damianwrooby" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="damianwrooby" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/damian-wroblewski89" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="damian-wroblewski89" height="30" width="30" /></a>
+<a href="https://twitter.com/damianwrooby" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="X profile" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/damian-wroblewski89" target="blank"><img align="center" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" alt="LinkedIn account" height="30" width="30" /></a>
 </div>
 </div>
