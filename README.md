@@ -1,10 +1,12 @@
-# Hi, I'm Damian
+# Hi, I'm Damian 
 
-- 🥷🏾 I'm a Software Developer living in a javaScript ecosystem. Specialized in frontend technologies.
+🥷🏾 I'm a Software Developer living in a JS/TS ecosystem. Specialized in frontend technologies.
 
-- 👨‍💻 Currently working full-time in an enterprise project for public sector
+👨‍💻 Currently working as a full-time frontend dev in an enterprise project for public sector using **Angular**
 
-- 📫 How to reach me?  👉🏼 **dwroblewski89@gmail.com**
+💻 Tech enthusiast, who likes to explore new tools and solutions by working on side projects using a wide range of technologies, both frontend and backend.
+
+📫 How to reach me?  👉🏼 **dwroblewski89@gmail.com**
 
 <br><br>
 ### Latest project
